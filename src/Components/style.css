@@ -95,6 +95,7 @@ padding: 1rem;
   padding: 1rem;
   width: 12rem;
   height: 18rem;
+  overflow: hidden;
 }
 .card:hover{
   transform: scale(1.1);
